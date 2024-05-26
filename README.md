@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a header file, and several cpp files. There is also a text file where the users login info is stored and called upon when that user attempts to login. 
+Project consists of a header file, and several cpp files. There is also a text file where the users login info is stored and called upon when that user attempts to login. The program also ensures that the users password is secure and won't allow the user to create an account unless the password contains at least 6 characters, one integer, and one upper case character.
 <br />
 
 
